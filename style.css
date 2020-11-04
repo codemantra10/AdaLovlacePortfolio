@@ -58,3 +58,7 @@ h2{
 font-family: 'Syne Tactile', cursive;
 color: firebrick;
 }
+html{
+scroll-behavior:smooth;
+
+}
